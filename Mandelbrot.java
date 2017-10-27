@@ -1,5 +1,5 @@
-import java.awt.Graphics;
-import java.awt.image.BufferedImage;
+import java.awt.Graphics;               //Graphics Import
+import java.awt.image.BufferedImage;    //Image Imports
 import java.io.File;
 import java.io.IOException;
 import java.awt.event.MouseEvent;
@@ -16,6 +16,7 @@ import java.awt.Color;
  * 		Implement panning, and zooming out.
  * 		Custom color schemes
  * 		Julia set compatibility?
+ *      Add more comments
  */
 
 public class Mandelbrot extends JFrame {
